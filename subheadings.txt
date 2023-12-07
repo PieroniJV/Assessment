@@ -14,11 +14,11 @@ DONE - Introduction to Deutsch's Algorithm:
     Provide a high-level overview of the problem Deutsch's Algorithm aims to solve.
 
 2. Problem Statement:
-    Black-Box Problem:
+DONE    Black-Box Problem:
 
         Clearly state the black-box problem, emphasizing the four possible types of functions (constant and balanced) that Deutsch's Algorithm addresses.
 
-    Classical Solution:
+DONE    Classical Solution:
 
         Explain the classical approach to solving the black-box problem and its limitations.
 
