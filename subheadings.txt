@@ -23,22 +23,18 @@ DONE    Classical Solution:
         Explain the classical approach to solving the black-box problem and its limitations.
 
 3. Quantum Principles:
-    Superposition:
+DONE    Superposition:
 
         Define superposition using LaTeX notation.
 
-    Interference:
+DONE    Interference:
 
         Explain interference in the context of quantum computation.
 
 4. Deutsch's Algorithm:
-    Algorithm Explanation:
+DONE    Algorithm Explanation:
 
         Break down the algorithm into steps using Markdown and LaTeX notation.
-
-    Quantum Circuit Overview:
-
-        Provide an overview of the quantum circuit structure.
 
 5. Quantum Circuit Implementation using Qiskit:
     Importing Libraries:
