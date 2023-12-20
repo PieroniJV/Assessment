@@ -37,45 +37,45 @@ DONE    Algorithm Explanation:
         Break down the algorithm into steps using Markdown and LaTeX notation.
 
 5. Quantum Circuit Implementation using Qiskit:
-    Importing Libraries:
+DONE    Importing Libraries:
 
         Import necessary Qiskit libraries.
 
-    Initialization:
+DONE    Initialization:
 
         Set up qubits and classical bits.
 
-    Hadamard Gates:
+DONE    Hadamard Gates:
 
         Apply Hadamard gates to create superposition.
 
-    Oracle Circuit:
+DONE    Oracle Circuit:
 
         Build the oracle circuit representing the black-box function.
 
-    Additional Gates:
+DONE    Additional Gates:
 
         Include any additional gates needed for the algorithm.
 
-    Measurement:
+DONE    Measurement:
 
         Add measurement operations to extract results.
 
 6. Circuit Visualization:
-    Visual Representation:
+DONE    Visual Representation:
 
         Use Qiskit's visualization tools to display the quantum circuit.
 
 7. Simulating the Quantum Circuit:
-    Setting up the Simulator:
+DONE    Setting up the Simulator:
 
         Choose an appropriate simulator in Qiskit.
 
-    Running the Simulation:
+DONE    Running the Simulation:
 
         Execute the quantum circuit simulation.
 
-    Results Analysis:
+DONE    Results Analysis:
 
         Analyze and interpret the simulation results.
 
@@ -107,5 +107,5 @@ Tips:
     Use Markdown extensively for text formatting and explanations.
     Leverage LaTeX notation for mathematical expressions.
     Include visual elements such as tables and plots where appropriate.
-    Clearly comment on your code for better understanding.
+    Comment on your code for better understanding.
     Test your code in sections to ensure correctness.

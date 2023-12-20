@@ -23,7 +23,7 @@ To run the code or notebooks in this repository, follow these steps:
 3. Install the required dependencies:
 - `jupyter`: To run the notebook.
 - `qiskit`: A comprehensive quantum computing library.
-- `numpy`:  A library for numerical computations in Python.
+- `NumPy`:  A library for numerical computations in Python.
 - `matplotlib`: A library for creating static, animated, and interactive visualizations in Python.
 `$ pip install jupyter qiskit numpy matplotlib`
 4. Open the Jupyter Notebooks using your preferred environment: 
