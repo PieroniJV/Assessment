@@ -25,7 +25,7 @@ To run the code or notebooks in this repository, follow these steps:
 - `qiskit`: A comprehensive quantum computing library.
 - `NumPy`:  A library for numerical computations in Python.
 - `matplotlib`: A library for creating static, animated, and interactive visualizations in Python.
-`$ pip install jupyter qiskit numpy matplotlib`
+`$ pip install jupyter qiskit numpy matplotlib qiskit-aer`
 4. Open the Jupyter Notebooks using your preferred environment: 
 `$ jupyter notebook`
 
