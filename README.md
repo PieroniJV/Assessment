@@ -32,3 +32,5 @@ To run the code or notebooks in this repository, follow these steps:
 ## Extra information
 
 - Prerequisites: You must have *Python*(3.6 or higher) installed. *VSCode* or similar. 
+
+- This work has been powered by the use of Artificial Intelligence for text revision.
