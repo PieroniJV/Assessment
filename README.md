@@ -34,3 +34,7 @@ To run the code or notebooks in this repository, follow these steps:
 - Prerequisites: You must have *Python*(3.6 or higher) installed. *VSCode* or similar. 
 
 - This work has been powered by the use of Artificial Intelligence for text revision.
+
+- Format used for references: 
+
+[#]: Author(s). (Year). *Title of the Work.* Publication Source, Volume(Issue), Page numbers. [URL or DOI link]. Date of access.
